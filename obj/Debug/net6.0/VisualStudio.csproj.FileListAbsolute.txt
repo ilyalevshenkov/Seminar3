@@ -1,0 +1,15 @@
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Знакомство C#/VS/VisualStudio/VisualStudio/bin/Debug/net6.0/VisualStudio
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Знакомство C#/VS/VisualStudio/VisualStudio/bin/Debug/net6.0/VisualStudio.deps.json
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Знакомство C#/VS/VisualStudio/VisualStudio/bin/Debug/net6.0/VisualStudio.runtimeconfig.json
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Знакомство C#/VS/VisualStudio/VisualStudio/bin/Debug/net6.0/VisualStudio.dll
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Знакомство C#/VS/VisualStudio/VisualStudio/bin/Debug/net6.0/VisualStudio.pdb
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Знакомство C#/VS/VisualStudio/VisualStudio/obj/Debug/net6.0/VisualStudio.csproj.AssemblyReference.cache
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Знакомство C#/VS/VisualStudio/VisualStudio/obj/Debug/net6.0/VisualStudio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Знакомство C#/VS/VisualStudio/VisualStudio/obj/Debug/net6.0/VisualStudio.AssemblyInfoInputs.cache
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Знакомство C#/VS/VisualStudio/VisualStudio/obj/Debug/net6.0/VisualStudio.AssemblyInfo.cs
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Знакомство C#/VS/VisualStudio/VisualStudio/obj/Debug/net6.0/VisualStudio.csproj.CoreCompileInputs.cache
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Знакомство C#/VS/VisualStudio/VisualStudio/obj/Debug/net6.0/VisualStudio.dll
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Знакомство C#/VS/VisualStudio/VisualStudio/obj/Debug/net6.0/refint/VisualStudio.dll
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Знакомство C#/VS/VisualStudio/VisualStudio/obj/Debug/net6.0/VisualStudio.pdb
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Знакомство C#/VS/VisualStudio/VisualStudio/obj/Debug/net6.0/VisualStudio.genruntimeconfig.cache
+/Users/ilyalevshenkov/Desktop/_IT Обучение/Знакомство C#/VS/VisualStudio/VisualStudio/obj/Debug/net6.0/ref/VisualStudio.dll
